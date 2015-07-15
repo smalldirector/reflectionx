@@ -2,13 +2,13 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
 
-  <groupId>org.reflectionx</groupId>
+  <groupId>com.pleasecode</groupId>
   <artifactId>reflectionx</artifactId>
   <packaging>jar</packaging>
   <version>1.0-SNAPSHOT</version>
 
   <name>reflectionx</name>
-  <url>http://maven.apache.org</url>
+  <url>http://pleasecode.com</url>
 
   <description>
     ReflectionX provides a set of java class analysis methods to help your program get class metadata information by analysis
